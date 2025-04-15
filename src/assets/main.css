@@ -1,1 +1,6 @@
 @import "tailwindcss";
+
+body {
+  font-family: Arial, sans-serif;
+  letter-spacing: 0.15em;
+}
